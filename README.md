@@ -1,16 +1,12 @@
-## Hi there 👋
+[## приветик конфетик! 👋
 
 <!--
-**jXeSi/jXeSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**я - начинающий kotlin разработчик, не идеален, но и не плох. выпускаю opensource плагины и сборки. 
 
-Here are some ideas to get you started:
+Сейчас я:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 изучаю kotlin..
+- 📅 делаю плагины, сборки для серверов.
+- 🐧 сижу на fedora linux
+- 🎯 делаю на качество, а не количество
+- 🐱 люблю котиков, особенно скотишфолд.
